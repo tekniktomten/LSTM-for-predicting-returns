@@ -2,6 +2,7 @@
 Our, Benjamin von Essen's and Haohang Wu's, project in the course 4330 - Macroeconomics and Finance, Spring 2021 at SSE.
 
 ![](https://github.com/tekniktomten/LSTM-for-predicting-returns/blob/main/top10_21.png)
+
 *Buying top 10, monthly. Portfolio development over time when, each month, buying the top 10 predicted stocks, with a forecast horizon of one month, and selling them next month (in yellow) versus buying all stocks equally weighted (in green).*
 
 Abstract:

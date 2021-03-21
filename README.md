@@ -1,5 +1,5 @@
 # LSTM-for-predicting-returns
-Our, Benjamin von Essen's and Haohang Wu's, project in the course 4330 - Macroeconomics and Finance, Spring 2021 at SSE.
+Benjamin von Essen's and Haohang Wu's project in the course 4330 - Macroeconomics and Finance, Spring 2021 at SSE.
 
 ![](https://github.com/tekniktomten/LSTM-for-predicting-returns/blob/main/top10_21.png)
 
